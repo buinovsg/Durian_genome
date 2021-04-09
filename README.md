@@ -1,34 +1,35 @@
 # Durian_genome
 
-Basic analyses:
+##Analyses:
 
 ● Reads preprocessing: trimming + quality check (before and after)
 
-FastQC for both Illumina short reads
+**FastQC** for both Illumina short reads
 
-Trimmomatic – for Illumina reads
+**Trimmomatic** – for Illumina reads
 
 ● Genome assembly of PacBio reads. 
 
-Canu – does both trimming and assembly of PacBio
+**Canu** – does both trimming and assembly of PacBio
 
 ● Correct the assembly with Illumina reads.
 
-BWA maps Illumina to draft assembly 
+**BWA** maps Illumina to draft assembly 
 
-Pilon – polishing the draft assembly with Illumina short reads
+**Pilon** – polishing the draft assembly with Illumina short reads
 
-RepeatMasker
+**RepeatMasker**
 
 ● Assembly quality assessment.
 
-BUSCO
-QUAST
+**BUSCO**
+
+**QUAST**
 
 ● Structural and functional annotation.
 
-BRAKER
+**BRAKER**
 
 ● Differential expression analyses. 
 
-Htseq 
+**Htseq** 
