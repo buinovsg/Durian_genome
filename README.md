@@ -12,8 +12,6 @@ Trimmomatic – for Illumina reads
 
 Canu – does both trimming and assembly of PacBio
 
-BWA maps reads to assembly
-
 ● Correct the assembly with Illumina reads.
 
 BWA maps Illumina to draft assembly 
