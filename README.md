@@ -1,6 +1,6 @@
 # Durian_genome
 
-##Analyses:
+## Analyses:
 
 ● Reads preprocessing: trimming + quality check (before and after)
 
