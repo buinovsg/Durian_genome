@@ -6,7 +6,7 @@
 
 **FastQC** for both Illumina short reads
 
-**Trimmomatic** – for Illumina reads
+**Trimmomatic** – for Illumina reads  COULD STILL USE TRIMMOMATICS 
 
 ● Genome assembly of PacBio reads. 
 
@@ -18,7 +18,7 @@
 
 **Pilon** – polishing the draft assembly with Illumina short reads
 
-**RepeatMasker**
+**RepeatMasker** optional
 
 ● Assembly quality assessment.
 
@@ -28,8 +28,10 @@
 
 ● Structural and functional annotation.
 
-**BRAKER**
+**BRAKER** WANT TO FIND OUT IF YOU HAVE GENES
+**eggnog** ASSEMBLY AS INPUTFUNCTIONAL ANNOTATION EGGNOG FOR POTENTIAL FUNCTION
 
 ● Differential expression analyses. 
-
-**Htseq** 
+STAR FOR MAPPING RNA TO GENOME ASSEMBLY
+**Htseq**   
+*DSEQ*  HOW GENES ARE UP AND DOWN REGULATED
