@@ -1,5 +1,10 @@
 # Durian_genome
 
+##Aim
+
+The aim of this project is to become familiar with genome assemmbly procedure by means of assembling a contig taken from a Durio zibethinus assembly (https://doi.org/10.1038/ng.3972).
+
+
 ## Analyses:
 
 ● Reads preprocessing: trimming + quality check (before and after)
