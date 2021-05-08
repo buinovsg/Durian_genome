@@ -34,6 +34,7 @@ The aim of this project is to become familiar with genome assemmbly procedure by
 
 ● Structural and functional annotation.
 
+**STAR** to make alignmnet files of RNA seq to our assembly
 **BRAKER** WANT TO FIND OUT IF YOU HAVE GENES
 **eggnog** ASSEMBLY AS INPUTFUNCTIONAL ANNOTATION EGGNOG FOR POTENTIAL FUNCTION
 
