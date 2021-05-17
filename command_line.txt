@@ -1,0 +1,6 @@
+# 01_Preprocessing
+#FastQ calling on UPPMAX for a fastq file with output written in the current directory
+
+module load bioinfo-tools
+module load FastQC/0.11.9
+fastqc . ../../../data/raw_data/illumina_data/SRR6058604_scaffold_06.1P.fastq.gz -o .
