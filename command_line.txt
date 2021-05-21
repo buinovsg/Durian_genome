@@ -4,3 +4,8 @@
 module load bioinfo-tools
 module load FastQC/0.11.9
 fastqc -o . ../../../data/raw_data/illumina_data/SRR6058604_scaffold_06.1P.fastq.gz -o .
+
+05_Genome_Annotation
+#extraction of CDS regions from a fasta file based on gtf annotation file for eggNOG-mapper functional annotation
+
+gffread -g durian.contig.masked.CDS.fasta -x durian.contig.masked.CDS.fasta braker.gtf
